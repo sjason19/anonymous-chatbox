@@ -1,6 +1,6 @@
 <?php
 //Connect to Mysql
-$con = mysqli_connect("localhost", "root", "ghz495op", "chatbox");
+$con = mysqli_connect("localhost", "root", "test", "chatbox");
 
 //Test connection
 if(mysqli_connect_errno()) {
